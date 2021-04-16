@@ -2,7 +2,8 @@
 
 ## Qui suis-je ? / Who am I?
 
-Je suis **GuiguiBlocCraft** et je suis étudiant pour devenir développeur. Les langages que je sais utiliser sont :\n
+Je suis **GuiguiBlocCraft** et je suis étudiant pour devenir développeur. Les langages que je sais utiliser sont :
+
 My name is **GuiguiBlocCraft** and I'm study to become developper. Languages I use are:
 
 - JavaScript (NodeJS)
@@ -11,7 +12,8 @@ My name is **GuiguiBlocCraft** and I'm study to become developper. Languages I u
 - SQL
 - Java
 
-La page peut être imcomplète et sera modifiée au fil du temps.\n
-The page is incompleted but will be modifiy in the future.\n\n
+La page peut être imcomplète et sera modifiée au fil du temps.
+
+The page is incompleted but will be modifiy in the future.
 
 *PS: It's possible that my english is bad 😌*
