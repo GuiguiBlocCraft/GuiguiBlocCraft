@@ -4,7 +4,7 @@
 
 Je suis **GuiguiBlocCraft** et je suis étudiant pour devenir développeur. Les langages que je sais utiliser sont :
 
-My name is **GuiguiBlocCraft** and I'm study to become developper. Languages I use are:
+My name is **GuiguiBlocCraft** and I'm a student to become developper. Languages I use are:
 
 - JavaScript (NodeJS)
 - HTML/CSS
