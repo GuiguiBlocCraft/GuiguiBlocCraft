@@ -1,4 +1,4 @@
-# Bienvenue sur mon profile ! / Welcome to my Github's profile!
+# Bienvenue sur mon profil ! / Welcome to my Github's profile!
 
 ## Qui suis-je ? / Who am I?
 
