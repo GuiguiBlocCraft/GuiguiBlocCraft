@@ -2,15 +2,14 @@
 
 ## Qui suis-je ? / Who am I?
 
-Je suis **GuiguiBlocCraft** et je suis étudiant pour devenir développeur. Les langages que je sais utiliser sont :
+Je suis **GuiguiBlocCraft** et ~~je suis étudiant pour devenir développeur~~ j'ai maintenant un travail en entreprise \o/ (toujours dans le développement). Les langages que je sais utiliser sont :
 
-My name is **GuiguiBlocCraft** and I'm a student to become developper. Languages I use are:
+My name is **GuiguiBlocCraft** and I'm in a enterprise (still in enterprise). Languages I use are:
 
 - JavaScript (NodeJS)
 - HTML/CSS
 - PHP
-- SQL
-- Java
+- C#
 
 La page peut être imcomplète et sera modifiée au fil du temps.
 
