@@ -1,18 +1,22 @@
-# Bienvenue sur mon profil ! / Welcome to my Github's profile!
+# Welcome to my Github's profile!
 
-## Qui suis-je ? / Who am I?
+##  Who am I?
 
-Je suis **GuiguiBlocCraft** et ~~je suis étudiant pour devenir développeur~~ j'ai maintenant un travail en entreprise \o/ (toujours dans le développement). Les langages que je sais utiliser sont :
+My name is **GuiguiBlocCraft**, I'm french and ~~I'm student~~ I'm in a enterprise (still in development).
 
-My name is **GuiguiBlocCraft** and I'm in a enterprise (still in enterprise). Languages I use are:
+The page may be incompleted, but will be modifiy in the future.
+
+
+## Personnal project?
+
+My personnal project is a Discord bot, offering users to play music, to manage moderation with commands, and more... It's a public bot, so you can <a href="https://www.servgbc.fr/discord">invite him</a> (all is French ⚠️).
+
+
+## Programming languages
 
 - JavaScript (NodeJS)
 - HTML/CSS
 - PHP
 - C#
 
-La page peut être imcomplète et sera modifiée au fil du temps.
-
-The page is incompleted but will be modifiy in the future.
-
-*PS: It's possible that my english is bad 😌*
+*PS: It's possible that my english is bad 🙄*
