@@ -9,7 +9,7 @@ The page may be incompleted, but will be modifiy in the future.
 
 ## Personnal project?
 
-My personnal project is a Discord bot, offering users to play music, to manage moderation with commands, and more... It's a public bot, so you can <a href="https://www.servgbc.fr/discord">invite him</a> (all is French ⚠️).
+My personnal project is a Discord bot (dev in NodeJS), offering users to play music, to manage moderation with commands, and more... It's a public bot, so you can <a href="https://www.servgbc.fr/discord">invite him</a> (all is French ⚠️).
 
 
 ## Programming languages
