@@ -15,6 +15,7 @@ My personnal project is a Discord bot (dev in NodeJS), offering users to play mu
 ## Programming languages
 
 - JavaScript (NodeJS)
+- Python
 - HTML/CSS
 - PHP
 - C#
